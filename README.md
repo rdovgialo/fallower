@@ -24,8 +24,17 @@ IE/TC needs to prepare presentation documents and write a fallow up emails for c
 - App generates a fallow up email as on-page text
 - App generated an Implementation guide for the client with code examples
 - App Generated FAQ's a on-page text
+- App Displays BV widgets with test-garlic instance and exmample data on seperate page.
 
 (additional / not confirmed)
 - App creates a unassigned Jira subtask witht the project scope in place
+
+
+### MVP
+
+- a GUI were you can specify scope
+- App returns Feeds, code snippets, fallow up guide
+
+
 
 
