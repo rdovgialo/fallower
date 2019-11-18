@@ -23,7 +23,6 @@ IE/TC needs to prepare presentation documents and write a fallow up emails for c
 - App generates list of relevant documentation links in templated format
 - App generates a fallow up email as on-page text
 - App generated an Implementation guide for the client with code examples
-- App Generated FAQ's a on-page text
 - App Displays BV widgets with test-garlic instance and exmample data on seperate page.
 
 (additional / not confirmed)
