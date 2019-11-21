@@ -1,0 +1,64 @@
+.form-container{
+    width: 20vw;
+    height: 93vh;
+
+}
+
+.formContainer{
+    height: 93vh;
+}
+
+.formTitle{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+}
+
+.formTitle{
+    font-size: 20px;
+}
+.input{
+    outline: none;
+    border-style: solid;
+    width: 15vw;
+    border-radius: 5px;
+    border-color: rgb(204, 204, 204);
+    box-sizing: border-box;
+    border-width: 1px;
+    font-size: 16px;
+    height: 2em;
+    color: #222222;
+}
+.formLabel{
+    width: 15vw;
+    font-size: 16px;
+    color: #222222;
+}
+.dropdown{
+    outline: none;
+    border-style: solid;
+    width: 15vw;
+    border-radius: 5px;
+    border-color: rgb(204, 204, 204);
+    box-sizing: border-box;
+    border-width: 1px;
+    font-size: 16px;
+    height: 2em;
+    color: #222222;
+}
+.checkboxContainer{
+    width: 7vw;
+    margin-top: 15px;
+    margin-right: 20px;
+    float: left;
+    overflow: hidden;
+}
+.scopeLabel{
+    width: 100%;
+    display: flex;
+}
+.content{ 
+    width: 80vw; 
+    height: 93vh; 
+    float: left;
+}
